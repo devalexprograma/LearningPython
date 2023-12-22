@@ -1,4 +1,9 @@
 nombre = "Edward"
+edad = 18
+if edad <= 18:
+    print(nombre+"Soy mayor de edad ")
+
+
 Texto = """Hola me llamo
 edward y estuduio informatica
 soy experto"""
